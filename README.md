@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [many things](https://github.com/rp-4?tab=repositories)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **Advanced Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rp-4?tab=repositories](https://github.com/rp-4?tab=repositories)
 
