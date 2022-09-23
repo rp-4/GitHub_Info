@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rp-4?tab=repositories](https://github.com/rp-4?tab=repositories)
 
-- 💬 Ask me about **Mechanical Design, 3D printing, Self-Hosting**
+- 💬 Ask me about **[Mechanical Design](https://www.youtube.com/c/thenordesign), 3D printing, Self-Hosting**
 
 - 📫 How to reach me **rinkeshpatel44@gmail.com**
 
