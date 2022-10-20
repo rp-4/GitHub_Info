@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rinkesh</h1>
-<h3 align="center">A passionate fullstack student (I wouldn't say developer yet) from Canada.</h3>
+<h3 align="center">A passionate programing student (I wouldn't say developer yet) from Canada.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rp-4&label=Profile%20views&color=0e75b6&style=flat" alt="rp-4" /> </p>
 
